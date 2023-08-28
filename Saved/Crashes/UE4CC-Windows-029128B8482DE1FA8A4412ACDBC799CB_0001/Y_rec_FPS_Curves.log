@@ -1,0 +1,1099 @@
+﻿Log file open, 04/20/22 18:14:31
+LogInit: Display: Running engine for game: Y_rec_FPS_Curves
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.231249
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 1600X Six-Core Processor           , GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Engine.ini]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Engine.ini]
+[2022.04.20-16.14.31:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Engine.ini]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Engine.ini]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.20-16.14.31:356][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.20-16.14.31:357][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.20-16.14.31:357][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.20-16.14.31:357][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.20-16.14.31:357][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.20-16.14.31:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Engine.ini]
+[2022.04.20-16.14.31:357][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Engine.ini]
+[2022.04.20-16.14.31:366][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.20-16.14.31:366][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2022.04.20-16.14.31:367][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.04.20-16.14.31:368][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.20-16.14.31:368][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.20-16.14.31:368][  0]LogHAL: Display: Platform has ~ 32 GB [34303811584 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.20-16.14.31:368][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.20-16.14.31:368][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.20-16.14.31:368][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Scalability.ini]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2022.04.20-16.14.31:369][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2022.04.20-16.14.31:370][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2022.04.20-16.14.31:370][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2022.04.20-16.14.31:370][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.20-16.14.31:370][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.20-16.14.31:370][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.20-16.14.31:370][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.20-16.14.31:370][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Config/Windows/Engine.ini]
+[2022.04.20-16.14.31:370][  0]LogInit: Computer: THIJS-PC
+[2022.04.20-16.14.31:370][  0]LogInit: User: Thijs
+[2022.04.20-16.14.31:370][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.04.20-16.14.31:370][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.20-16.14.31:370][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.04.20-16.14.31:370][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.20-16.14.31:370][  0]LogMemory: Process Physical Memory: 116.59 MB used, 116.59 MB peak
+[2022.04.20-16.14.31:370][  0]LogMemory: Process Virtual Memory: 105.66 MB used, 105.66 MB peak
+[2022.04.20-16.14.31:370][  0]LogMemory: Physical Memory: 7200.34 MB used,  25514.32 MB free, 32714.66 MB total
+[2022.04.20-16.14.31:370][  0]LogMemory: Virtual Memory: 5175.06 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2022.04.20-16.14.31:377][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.20-16.14.31:432][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.20-16.14.31:433][  0]LogInit: Using OS detected language (nl-NL).
+[2022.04.20-16.14.31:433][  0]LogInit: Using OS detected locale (nl-NL).
+[2022.04.20-16.14.31:437][  0]LogTextLocalizationManager: No localization for 'nl-NL' exists, so 'en' will be used for the language.
+[2022.04.20-16.14.31:645][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.20-16.14.31:692][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.20-16.14.31:692][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.20-16.14.31:895][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.20-16.14.31:895][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.20-16.14.31:895][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.20-16.14.31:895][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.20-16.14.32:029][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2022.04.20-16.14.32:029][  0]LogD3D11RHI:       8050/0/16357 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2022.04.20-16.14.32:032][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.20-16.14.32:032][  0]LogD3D11RHI:       0/0/16357 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.20-16.14.32:032][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.04.20-16.14.32:041][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.20-16.14.32:041][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.20-16.14.32:041][  0]LogWindows: EnumDisplayDevices:
+[2022.04.20-16.14.32:041][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2022.04.20-16.14.32:041][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2022.04.20-16.14.32:042][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1)
+[2022.04.20-16.14.32:042][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2022.04.20-16.14.32:042][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.04.20-16.14.32:042][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2022.04.20-16.14.32:042][  0]LogD3D11RHI:   Driver Version: 511.23 (internal:30.0.15.1123, unified:511.23)
+[2022.04.20-16.14.32:042][  0]LogD3D11RHI:      Driver Date: 1-10-2022
+[2022.04.20-16.14.32:042][  0]LogRHI: Texture pool is 5635 MB (70% of 8050 MB)
+[2022.04.20-16.14.32:117][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.20-16.14.32:117][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.20-16.14.32:117][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.20-16.14.32:139][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.20-16.14.32:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.20-16.14.32:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.20-16.14.32:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.20-16.14.32:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.20-16.14.32:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.20-16.14.32:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.20-16.14.32:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.20-16.14.32:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.20-16.14.32:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.20-16.14.32:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.20-16.14.32:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.20-16.14.32:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.20-16.14.32:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.20-16.14.32:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.20-16.14.32:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.20-16.14.32:575][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.20-16.14.32:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.20-16.14.32:597][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.20-16.14.32:608][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.20-16.14.32:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.20-16.14.32:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.20-16.14.32:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.20-16.14.32:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.20-16.14.32:667][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.20-16.14.32:678][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.20-16.14.32:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.20-16.14.32:700][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.20-16.14.32:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.20-16.14.32:710][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.20-16.14.32:719][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.20-16.14.32:790][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../../UnrealProjects/Y_rec_FPS_Curves/Intermediate/Shaders/WorkingDirectory/14660/).
+[2022.04.20-16.14.32:790][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Thijs/AppData/Local/Temp/UnrealShaderWorkingDir/1D3EA74F4D4611B432A4CFA9A339C8BE/'.
+[2022.04.20-16.14.32:791][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.20-16.14.32:791][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.20-16.14.32:791][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.20-16.14.33:637][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.20-16.14.33:690][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/Thijs/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2022.04.20-16.14.33:690][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thijs/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2022.04.20-16.14.33:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../UnrealProjects/Y_rec_FPS_Curves/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.20-16.14.33:690][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.20-16.14.33:690][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../UnrealProjects/Y_rec_FPS_Curves/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.20-16.14.33:690][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.20-16.14.33:702][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.20-16.14.33:703][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.20-16.14.33:703][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.20-16.14.33:704][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Thijs/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.20-16.14.33:704][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.20-16.14.33:704][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.20-16.14.33:760][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.20-16.14.33:761][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.20-16.14.33:785][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2022.04.20-16.14.34:062][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.20-16.14.34:177][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.20-16.14.34:177][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.20-16.14.34:177][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.20-16.14.34:177][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.20-16.14.34:177][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.20-16.14.34:200][  0]LogNetVersion: Y_rec_FPS_Curves 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 4119077381)
+[2022.04.20-16.14.34:636][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000020A9E994340), frame # 0
+[2022.04.20-16.14.34:636][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020A9E8BBC40), frame # 0
+[2022.04.20-16.14.34:637][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020A9E931E00), frame # 0
+[2022.04.20-16.14.34:680][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.036202 seconds
+[2022.04.20-16.14.34:686][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2022.04.20-16.14.34:686][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2022.04.20-16.14.34:686][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.20-16.14.35:072][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.20-16.14.35:077][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.20-16.14.35:142][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2022.04.20-16.14.35:143][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2022.04.20-16.14.35:143][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2022.04.20-16.14.35:181][  0]SourceControl: Source control is disabled
+[2022.04.20-16.14.35:181][  0]SourceControl: Source control is disabled
+[2022.04.20-16.14.35:185][  0]SourceControl: Source control is disabled
+[2022.04.20-16.14.35:188][  0]SourceControl: Source control is disabled
+[2022.04.20-16.14.35:196][  0]SourceControl: Source control is disabled
+[2022.04.20-16.14.35:473][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.20-16.14.35:499][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.20-16.14.35:499][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.20-16.14.35:559][  0]LogOcInput: OculusInput pre-init called
+[2022.04.20-16.14.35:572][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.04.20-16.14.35:572][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.04.20-16.14.35:648][  0]LogEngine: Initializing Engine...
+[2022.04.20-16.14.35:649][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.20-16.14.35:649][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.20-16.14.35:650][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.20-16.14.35:780][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.20-16.14.35:788][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.20-16.14.35:788][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020AA1CDBC00), frame # 0
+[2022.04.20-16.14.35:788][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020AA1D51800), frame # 0
+[2022.04.20-16.14.35:806][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-16.14.35:806][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-16.14.35:806][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-16.14.35:806][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-16.14.35:806][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-16.14.35:806][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-16.14.35:806][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-16.14.35:806][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-16.14.35:806][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.20-16.14.35:807][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-16.14.35:823][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-16.14.35:823][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-16.14.35:916][  0]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2022.04.20-16.14.35:916][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-16.14.35:919][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-16.14.35:919][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-16.14.35:920][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-16.14.35:921][  0]LogInit: FAudioDevice initialized.
+[2022.04.20-16.14.35:921][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.20-16.14.36:013][  0]LogDerivedDataCache: Saved boot cache 0.09s 76MB C:/Users/Thijs/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2022.04.20-16.14.36:015][  0]LogInit: Texture streaming: Enabled
+[2022.04.20-16.14.36:035][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.20-16.14.36:036][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.20-16.14.36:041][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.20-16.14.36:094][  0]LogInit: Transaction tracking system initialized
+[2022.04.20-16.14.36:118][  0]BlueprintLog: New page: Editor Load
+[2022.04.20-16.14.36:196][  0]LocalizationService: Localization service is disabled
+[2022.04.20-16.14.36:695][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.04.20-16.14.36:695][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.20-16.14.36:847][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/Y_rec_FPS_Curves/Content/' took 0.01s
+[2022.04.20-16.14.37:045][  0]SourceControl: Source control is disabled
+[2022.04.20-16.14.37:045][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.503
+[2022.04.20-16.14.37:045][  0]Cmd: MAP LOAD FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.20-16.14.37:045][  0]LightingResults: New page: Lighting Build
+[2022.04.20-16.14.37:046][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.14.37:046][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.14.37:046][  0]MapCheck: New page: Map Check
+[2022.04.20-16.14.37:046][  0]LightingResults: New page: Lighting Build
+[2022.04.20-16.14.37:060][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020AA1CDBC00), frame # 0
+[2022.04.20-16.14.37:060][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020AA1D51800), frame # 0
+[2022.04.20-16.14.37:061][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.04.20-16.14.37:367][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.20-16.14.37:367][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020A8F993600), frame # 0
+[2022.04.20-16.14.37:367][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020AA1CF4180), frame # 0
+[2022.04.20-16.14.37:386][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.20-16.14.37:406][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.04.20-16.14.37:406][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.20-16.14.37:406][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2022.04.20-16.14.37:406][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.361
+[2022.04.20-16.14.37:408][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.866
+[2022.04.20-16.14.37:574][  0]LogCollectionManager: Loaded 0 collections in 0.001061 seconds
+[2022.04.20-16.14.37:590][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/Y_rec_FPS_Curves/Saved/Collections/' took 0.00s
+[2022.04.20-16.14.37:590][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/Y_rec_FPS_Curves/Content/Developers/Thijs/Collections/' took 0.00s
+[2022.04.20-16.14.37:590][  0]LogFileCache: Scanning file cache for directory 'E:/UnrealProjects/Y_rec_FPS_Curves/Content/Collections/' took 0.00s
+[2022.04.20-16.14.37:590][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 3429 classes and 824 folders.
+[2022.04.20-16.14.37:594][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.04.20-16.14.37:652][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.04.20-16.14.37:750][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.04.20-16.14.37:766][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-16.14.37:774][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-16.14.37:782][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-16.14.37:791][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-16.14.37:868][  0]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.20-16.14.37:872][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.20-16.14.37:874][  0]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.20-16.14.37:974][  0]LogRenderer: Reallocating scene render targets to support 2308x1188 Format 10 NumSamples 1 (Frame:1).
+[2022.04.20-16.14.38:151][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.20-16.14.38:151][  0]LogLoad: (Engine Initialization) Total time: 8.61 seconds
+[2022.04.20-16.14.38:151][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.20-16.14.38:199][  0]LogAssetRegistry: Asset discovery search completed in 4.4148 seconds
+[2022.04.20-16.14.38:203][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.04.20-16.14.38:204][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.20-16.14.50:256][370]LogSlate: Window 'Viewport 1' being destroyed
+[2022.04.20-16.14.50:261][370]LogSlate: Window 'Viewport 1' being destroyed
+[2022.04.20-16.17.36:129][400]LogSlate: Took 0.001185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.20-16.17.36:143][400]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/0000/Widgets/IngameHUD.IngameHUD
+[2022.04.20-16.17.36:434][400]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2022.04.20-16.17.37:915][400]LogSlate: Took 0.000997 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.20-16.17.45:728][157]LogSlate: Took 0.001083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.20-16.18.00:181][663]LogSlate: Window 'IngameHUD' being destroyed
+[2022.04.20-16.18.00:189][663]LogSlate: Window 'IngameHUD' being destroyed
+[2022.04.20-16.18.00:197][663]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.18.00:197][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.18.00:202][663]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.18.00:202][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.20.08:973][904]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/0000/Widgets/IngameHUD.IngameHUD
+[2022.04.20-16.20.43:826][350]LogSlate: Window 'IngameHUD' being destroyed
+[2022.04.20-16.20.43:834][350]LogSlate: Window 'IngameHUD' being destroyed
+[2022.04.20-16.20.43:837][350]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.20.43:837][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.20.43:844][350]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.20.43:844][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.20.51:756][245]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/0000/Zombie_01/AI_Zombie_BP.AI_Zombie_BP
+[2022.04.20-16.21.03:645][164]LogSlate: Window 'AI_Zombie_BP' being destroyed
+[2022.04.20-16.21.03:653][164]LogSlate: Window 'AI_Zombie_BP' being destroyed
+[2022.04.20-16.21.03:660][164]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.21.03:661][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.21.19:278][815]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.20-16.21.19:284][815]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.20-16.22.17:351][740]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/0000/Widgets/IngameHUD.IngameHUD
+[2022.04.20-16.22.46:156][593]LogSlate: Window 'IngameHUD' being destroyed
+[2022.04.20-16.22.46:165][593]LogSlate: Window 'IngameHUD' being destroyed
+[2022.04.20-16.22.46:169][593]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.22.46:169][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.22.46:178][593]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.22.46:178][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.22.51:426][186]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/0000/Zombie_01/AI_Zombie_BP.AI_Zombie_BP
+[2022.04.20-16.22.58:215][695]LogSlate: Window 'AI_Zombie_BP' being destroyed
+[2022.04.20-16.22.58:224][695]LogSlate: Window 'AI_Zombie_BP' being destroyed
+[2022.04.20-16.22.58:224][695]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.22.58:224][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.23.47:155][511]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.20-16.23.47:163][511]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.20-16.24.10:200][221]LogSlate: Window 'New Channel' being destroyed
+[2022.04.20-16.24.28:137][760]LogSlate: Window 'Edit Profile' being destroyed
+[2022.04.20-16.24.37:121][104]LogSlate: Window 'Edit Profile' being destroyed
+[2022.04.20-16.24.38:814][268]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.20-16.24.38:818][268]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.20-16.24.40:007][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/0000/Zombie_01/AI_Zombie_BP.AI_Zombie_BP
+[2022.04.20-16.25.05:662][380]LogSlate: Window 'AI_Zombie_BP' being destroyed
+[2022.04.20-16.25.05:670][380]LogSlate: Window 'AI_Zombie_BP' being destroyed
+[2022.04.20-16.25.05:674][380]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.25.05:675][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.25.30:563][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-16.26.41:733][612]LogSlate: Took 0.004746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.04.20-16.27.56:572][134]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-16.27.56:811][134]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2022.04.20-16.27.56:956][134]LogSlate: Took 0.000947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.20-16.27.57:466][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/FirstPersonCharacter" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset" SILENT=true
+[2022.04.20-16.27.57:560][162]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacter9A2A153547832151EF2DE9A1D3D64922.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset'
+[2022.04.20-16.27.57:577][162]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.04.20-16.27.57:577][162]LogContentValidation: Display: Validating Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-16.28.22:507][603]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.04.20-16.28.22:558][603]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonExampleMap_Auto1F49A2EBE4D02F696864E76A7274B3A0E.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/Autosaves/Game/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.04.20-16.28.22:560][603]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FirstPersonExampleMap' took 0.132
+[2022.04.20-16.28.22:560][603]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.132
+[2022.04.20-16.34.16:883][666]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-16.34.16:979][666]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.04.20-16.34.20:347][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/FirstPersonCharacter" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset" SILENT=true
+[2022.04.20-16.34.20:430][976]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacter0EBE87894C791CC570C764989FFED6FA.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset'
+[2022.04.20-16.34.20:444][976]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.04.20-16.34.20:444][976]LogContentValidation: Display: Validating Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-16.34.55:571][127]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-16.34.55:663][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.04.20-16.37.27:757][702]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-16.37.27:764][702]LogBlueprint: Error: [Compiler FirstPersonCharacter] No DataTable in  Get Data Table Row NONE
+[2022.04.20-16.37.27:780][702]LogBlueprint: Error: [Compiler FirstPersonCharacter] GetDataTableRow must have a DataTable specified.
+[2022.04.20-16.37.27:840][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.04.20-16.37.28:952][784]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/FirstPersonCharacter" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset" SILENT=true
+[2022.04.20-16.37.29:034][784]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacter8E1F343F43EEDA5893E913934DD06B58.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset'
+[2022.04.20-16.37.29:052][784]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.04.20-16.37.29:052][784]LogContentValidation: Display: Validating Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-16.38.23:138][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.04.20-16.38.23:177][ 53]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonExampleMap_Auto2DF695D7D41609BF8CB53958A6B2310AE.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/Autosaves/Game/Maps/FirstPersonExampleMap_Auto2.umap'
+[2022.04.20-16.38.23:183][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FirstPersonExampleMap' took 0.068
+[2022.04.20-16.38.23:183][ 53]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.068
+[2022.04.20-16.39.11:519][126]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum
+[2022.04.20-16.39.13:681][374]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.13:701][374]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:117][424]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:117][424]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:117][424]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:143][424]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:143][424]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:424][458]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:425][458]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:425][458]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:425][458]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:425][458]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:449][458]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:449][458]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.14:449][458]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:082][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:082][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:082][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:082][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:082][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:082][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:082][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:104][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:104][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:104][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.15:104][534]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:665][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:665][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:665][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:665][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:665][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:665][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:665][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:665][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:679][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:679][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:679][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.19:679][ 79]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:947][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:947][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:947][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:947][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:947][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:947][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:947][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:947][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:961][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:961][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:961][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.23:961][590]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:026][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:026][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:026][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:026][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:026][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:026][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:026][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:026][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:044][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:044][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:044][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.27:044][957]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:897][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:897][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:897][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:898][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:898][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:898][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:898][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:898][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:914][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:914][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:914][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.32:914][658]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:879][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/Weapons/WeaponType_Enum" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponType_Enum.uasset" SILENT=true
+[2022.04.20-16.39.47:880][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:880][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:880][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:881][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:882][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator0' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:882][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator1' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:882][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator2' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:882][418]LogEnum: Warning: Enum name collision: 'WeaponType_Enum::NewEnumerator3' is in both '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' and '/Game/Examples/WeaponType_Enum.WeaponType_Enum'
+[2022.04.20-16.39.47:882][418]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/WeaponType_Enum414513B14BDD9784AD00CCBFA03C1793.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponType_Enum.uasset'
+[2022.04.20-16.39.47:896][418]AssetCheck: New page: Asset Save: WeaponType_Enum
+[2022.04.20-16.39.47:896][418]LogContentValidation: Display: Validating UserDefinedEnum /Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum
+[2022.04.20-16.39.59:102][637]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/0000/Weapons/AmmoType.AmmoType
+[2022.04.20-16.40.15:716][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/Weapons/AmmoType" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/AmmoType.uasset" SILENT=true
+[2022.04.20-16.40.15:718][597]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/AmmoType35F84B4B43940E7E5C4B158C460C55E3.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/AmmoType.uasset'
+[2022.04.20-16.40.15:733][597]AssetCheck: New page: Asset Save: AmmoType
+[2022.04.20-16.40.15:733][597]LogContentValidation: Display: Validating UserDefinedEnum /Game/0000/Weapons/AmmoType.AmmoType
+[2022.04.20-16.40.21:554][274]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum
+[2022.04.20-16.46.48:018][187]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-16.46.48:024][187]LogBlueprint: Error: [Compiler FirstPersonCharacter] No DataTable in  Get Data Table Row NONE
+[2022.04.20-16.46.48:040][187]LogBlueprint: Error: [Compiler FirstPersonCharacter] GetDataTableRow must have a DataTable specified.
+[2022.04.20-16.46.48:148][187]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2022.04.20-16.46.59:301][120]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-16.46.59:307][120]LogBlueprint: Error: [Compiler FirstPersonCharacter] No DataTable in  Get Data Table Row NONE
+[2022.04.20-16.46.59:377][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.04.20-16.47.02:590][378]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-16.47.02:596][378]LogBlueprint: Error: [Compiler FirstPersonCharacter] No DataTable in  Get Data Table Row NONE
+[2022.04.20-16.47.02:666][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.04.20-16.47.04:882][555]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-16.47.04:888][555]LogBlueprint: Error: [Compiler FirstPersonCharacter] No DataTable in  Get Data Table Row NONE
+[2022.04.20-16.47.04:960][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.04.20-16.47.10:371][ 14]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-16.47.10:454][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.04.20-16.52.21:218][153]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/0000/Widgets/IngameHUD.IngameHUD
+[2022.04.20-16.52.29:475][906]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.52.29:475][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.52.29:479][906]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-16.52.29:479][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-16.56.08:303][864]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-16.56.08:417][864]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.04.20-16.58.16:528][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.04.20-16.58.16:575][639]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonExampleMap_Auto3FF0B1329429FDD82FD381F81229D44F7.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/Autosaves/Game/Maps/FirstPersonExampleMap_Auto3.umap'
+[2022.04.20-16.58.16:577][639]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FirstPersonExampleMap' took 0.072
+[2022.04.20-16.58.16:577][639]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2022.04.20-16.58.16:577][639]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/0000/FirstPersonCharacter] ([1] browsable assets)...
+[2022.04.20-16.58.16:587][639]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter]
+[2022.04.20-16.58.16:587][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/0000/FirstPersonCharacter]
+[2022.04.20-16.58.16:709][639]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacter_Auto383762A39406BC1A74A8915BB6539BAF4.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/Autosaves/Game/0000/FirstPersonCharacter_Auto3.uasset'
+[2022.04.20-16.58.16:710][639]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/0000/Widgets/IngameHUD] ([1] browsable assets)...
+[2022.04.20-16.58.16:710][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/0000/Widgets/IngameHUD]
+[2022.04.20-16.58.16:710][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/Widgets/IngameHUD" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/Autosaves/Game/0000/Widgets/IngameHUD_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.04.20-16.58.16:734][639]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/IngameHUD_Auto311874DEA4EB66D7E02DFFCA561275305.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/Autosaves/Game/0000/Widgets/IngameHUD_Auto3.uasset'
+[2022.04.20-16.58.16:735][639]LogFileHelpers: Auto-saving content packages took 0.158
+[2022.04.20-17.00.13:533][695]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/0000/Widgets/IngameHUD.IngameHUD
+[2022.04.20-17.10.48:636][746]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-17.10.48:690][746]LogClass: Warning: Type mismatch in CW_IsShotgun of FirstPersonCharacter_C - Previous (FloatProperty) Current(BoolProperty) for package:  FObjectReader
+[2022.04.20-17.10.48:768][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.04.20-17.10.49:166][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/FirstPersonCharacter" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset" SILENT=true
+[2022.04.20-17.10.49:299][767]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacterA51DF3F74851E8D92D63D38A7944933E.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset'
+[2022.04.20-17.10.49:317][767]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.04.20-17.10.49:317][767]LogContentValidation: Display: Validating Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-17.14.47:853][848]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-17.14.47:998][848]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.04.20-17.14.48:612][873]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/FirstPersonCharacter" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset" SILENT=true
+[2022.04.20-17.14.48:743][873]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacter7BA572424619B5D72BF7FCA770A14028.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset'
+[2022.04.20-17.14.48:762][873]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.04.20-17.14.48:762][873]LogContentValidation: Display: Validating Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-17.17.20:513][948]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-17.17.20:645][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.04.20-17.18.50:796][ 34]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-17.18.50:923][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2022.04.20-17.18.51:691][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/FirstPersonCharacter" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset" SILENT=true
+[2022.04.20-17.18.51:840][ 72]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacter36B51E694AB2FE390FD5F18E1122C8CA.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset'
+[2022.04.20-17.18.51:856][ 72]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.04.20-17.18.51:857][ 72]LogContentValidation: Display: Validating Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-17.19.22:694][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.04.20-17.19.22:736][949]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonExampleMap_Auto4A919D81143240FE1EF45E4822002361E.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/Autosaves/Game/Maps/FirstPersonExampleMap_Auto4.umap'
+[2022.04.20-17.19.22:738][949]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/FirstPersonExampleMap' took 0.070
+[2022.04.20-17.19.22:738][949]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.070
+[2022.04.20-17.20.02:668][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/FirstPersonCharacter" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset" SILENT=true
+[2022.04.20-17.20.02:797][608]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacter3DD7F72E49AE9F30DAF7B992295B177E.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset'
+[2022.04.20-17.20.02:815][608]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.04.20-17.20.02:815][608]LogContentValidation: Display: Validating Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-17.20.03:711][675]LogSlate: Window 'IngameHUD' being destroyed
+[2022.04.20-17.20.03:715][675]LogSlate: Window 'IngameHUD' being destroyed
+[2022.04.20-17.20.03:720][675]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.20.03:721][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.20.03:823][675]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.20.03:823][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.20.03:837][675]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.20.03:837][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.20.05:160][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.04.20-17.20.06:365][819]LogSlate: Window 'Save Content' being destroyed
+[2022.04.20-17.20.06:389][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/Widgets/IngameHUD" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Widgets/IngameHUD.uasset" SILENT=true
+[2022.04.20-17.20.06:410][819]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/IngameHUDC56599A04488B1B7D9CC03855AB345A7.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Widgets/IngameHUD.uasset'
+[2022.04.20-17.20.06:412][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstPersonExampleMap" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/Maps/FirstPersonExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.04.20-17.20.06:431][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.04.20-17.20.06:463][819]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonExampleMapBB84C90C447A8E40FFE4F5B581761D86.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/Maps/FirstPersonExampleMap.umap'
+[2022.04.20-17.20.06:497][819]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.085
+[2022.04.20-17.20.06:497][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2022.04.20-17.20.07:412][819]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonExampleMap_BuiltDataD0E1E718419B4F715CD6F993CA29C369.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.20-17.20.07:414][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FirstPersonExampleMap_BuiltData" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2022.04.20-17.20.07:944][819]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonExampleMap_BuiltData9F0E30F3440914F36EE67E888A5BE98A.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.04.20-17.20.07:998][819]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.20-17.20.07:998][819]LogContentValidation: Display: Validating WidgetBlueprint /Game/0000/Widgets/IngameHUD.IngameHUD
+[2022.04.20-17.20.07:998][819]LogContentValidation: Display: Validating World /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.04.20-17.20.07:998][819]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.04.20-17.20.13:093][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.04.20-17.20.13:224][417]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.20-17.20.17:556][417]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.20-17.20.21:496][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.04.20-17.20.23:246][884]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.20-17.20.23:367][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.04.20-17.20.23:397][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.04.20-17.20.23:416][884]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.04.20-17.20.32:624][970]LogMetaData: Removing '/Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum' ref from Metadata '/Game/Examples/WeaponType_Enum.PackageMetaData'
+[2022.04.20-17.20.32:633][970]LogMetaData: Removing '/Game/0000/Weapons/WeaponInfo_Struct.WeaponInfo_Struct' ref from Metadata '/Game/Examples/WeaponInfo_Struct.PackageMetaData'
+[2022.04.20-17.20.32:673][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/Weapons/WeaponType_Enum" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponType_Enum.uasset" SILENT=true
+[2022.04.20-17.20.32:675][970]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/WeaponType_EnumFF1F58C841EE6143D7D7349E11B1B594.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponType_Enum.uasset'
+[2022.04.20-17.20.32:676][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/Weapons/WeaponInfo_Struct" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponInfo_Struct.uasset" SILENT=true
+[2022.04.20-17.20.32:681][970]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/WeaponInfo_Struct0B0B3DD4415A72AB719361B9061594DD.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponInfo_Struct.uasset'
+[2022.04.20-17.20.32:971][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.04.20-17.20.32:989][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.04.20-17.20.33:013][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.04.20-17.20.33:030][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.04.20-17.20.33:069][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/FirstPersonCharacter" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset" SILENT=true
+[2022.04.20-17.20.33:200][970]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacter265D24A24D20F95137A59A881948A469.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset'
+[2022.04.20-17.20.33:273][970]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.20-17.20.33:273][970]LogContentValidation: Display: Validating UserDefinedEnum /Game/0000/Weapons/WeaponType_Enum.WeaponType_Enum
+[2022.04.20-17.20.33:274][970]LogContentValidation: Display: Validating UserDefinedStruct /Game/0000/Weapons/WeaponInfo_Struct.WeaponInfo_Struct
+[2022.04.20-17.20.33:274][970]LogContentValidation: Display: Validating Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-17.20.36:726][372]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/0000/Weapons/WeaponInfo_Struct.WeaponInfo_Struct
+[2022.04.20-17.24.00:194][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/Weapons/WeaponInfo_Struct" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponInfo_Struct.uasset" SILENT=true
+[2022.04.20-17.24.00:204][634]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/WeaponInfo_StructE39D1E6C4B1D6CC11EC30D92CD3A5125.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponInfo_Struct.uasset'
+[2022.04.20-17.24.00:219][634]AssetCheck: New page: Asset Save: WeaponInfo_Struct
+[2022.04.20-17.24.00:219][634]LogContentValidation: Display: Validating UserDefinedStruct /Game/0000/Weapons/WeaponInfo_Struct.WeaponInfo_Struct
+[2022.04.20-17.24.01:228][737]LogSlate: Window 'WeaponInfo_Struct' being destroyed
+[2022.04.20-17.24.01:234][737]LogSlate: Window 'WeaponInfo_Struct' being destroyed
+[2022.04.20-17.24.03:369][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.04.20-17.24.04:956][983]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.20-17.24.05:040][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.04.20-17.24.22:360][600]LogSlate: Window 'Pick Row Structure' being destroyed
+[2022.04.20-17.24.31:100][643]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/0000/Weapons/WeaponInfo_Table.WeaponInfo_Table
+[2022.04.20-17.25.26:288][689]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Weapons/Mesh/Pistols_A.Pistols_A
+[2022.04.20-17.25.26:320][689]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2022.04.20-17.25.26:516][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.20-17.25.26:525][689]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.04.20-17.25.26:568][689]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2022.04.20-17.25.27:251][690]LogRenderer: Reallocating scene render targets to support 2308x1284 Format 10 NumSamples 1 (Frame:1).
+[2022.04.20-17.26.18:247][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/Weapons/WeaponInfo_Table" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponInfo_Table.uasset" SILENT=true
+[2022.04.20-17.26.18:250][643]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/WeaponInfo_TableC252C8A940F89C75851D609A18A3159F.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponInfo_Table.uasset'
+[2022.04.20-17.26.18:274][643]AssetCheck: New page: Asset Save: WeaponInfo_Table
+[2022.04.20-17.26.18:274][643]LogContentValidation: Display: Validating DataTable /Game/0000/Weapons/WeaponInfo_Table.WeaponInfo_Table
+[2022.04.20-17.26.21:784][980]LogSlate: Window 'Pistols_A' being destroyed
+[2022.04.20-17.26.21:790][980]LogSlate: Window 'Pistols_A' being destroyed
+[2022.04.20-17.26.21:791][980]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.26.21:791][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.26.29:988][921]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-17.27.30:577][301]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-17.27.30:805][301]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2022.04.20-17.30.37:848][641]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-17.30.38:038][641]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.04.20-17.30.38:653][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/FirstPersonCharacter" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset" SILENT=true
+[2022.04.20-17.30.38:813][668]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacterA524CF594E581B1E71DD368276F0C568.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset'
+[2022.04.20-17.30.38:830][668]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.04.20-17.30.38:830][668]LogContentValidation: Display: Validating Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-17.30.47:330][582]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/0000/Weapons/WeaponInfo_Struct.WeaponInfo_Struct
+[2022.04.20-17.30.56:068][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/Weapons/WeaponInfo_Struct" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponInfo_Struct.uasset" SILENT=true
+[2022.04.20-17.30.56:080][400]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/WeaponInfo_StructE56B86064BC763F053E3DAA4A84E35E0.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/Weapons/WeaponInfo_Struct.uasset'
+[2022.04.20-17.30.56:099][400]AssetCheck: New page: Asset Save: WeaponInfo_Struct
+[2022.04.20-17.30.56:099][400]LogContentValidation: Display: Validating UserDefinedStruct /Game/0000/Weapons/WeaponInfo_Struct.WeaponInfo_Struct
+[2022.04.20-17.32.15:317][381]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-17.32.15:441][381]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.04.20-17.33.31:221][326]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-17.33.31:338][326]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.04.20-17.33.32:061][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/0000/FirstPersonCharacter" FILE="../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset" SILENT=true
+[2022.04.20-17.33.32:214][356]LogSavePackage: Moving '../../../../../UnrealProjects/Y_rec_FPS_Curves/Saved/FirstPersonCharacter706E7B7E4E07D42E4E086D8CDE24A46C.tmp' to '../../../../../UnrealProjects/Y_rec_FPS_Curves/Content/0000/FirstPersonCharacter.uasset'
+[2022.04.20-17.33.32:229][356]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2022.04.20-17.33.32:229][356]LogContentValidation: Display: Validating Blueprint /Game/0000/FirstPersonCharacter.FirstPersonCharacter
+[2022.04.20-17.33.38:605][762]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-17.33.38:627][762]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.20-17.33.38:628][762]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2022.04.20-17.33.38:655][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.04.20-17.33.38:656][762]LogPlayLevel: PlayLevel: Blueprint regeneration took 29 ms (1 blueprints)
+[2022.04.20-17.33.38:658][762]PIE: New page: PIE session: FirstPersonExampleMap (20 apr. 2022 21:33:38)
+[2022.04.20-17.33.38:660][762]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.20-17.33.38:661][762]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.20-17.33.38:661][762]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.20-17.33.38:672][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011765s)
+[2022.04.20-17.33.38:673][762]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.20-17.33.38:673][762]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020ABC81A400), frame # 319762
+[2022.04.20-17.33.38:673][762]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020B6B302200), frame # 319762
+[2022.04.20-17.33.38:673][762]LogPlayLevel: PIE: World Init took: (0.001588s)
+[2022.04.20-17.33.38:674][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013585s)
+[2022.04.20-17.33.38:699][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.04.20-17.33.38:700][762]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-17.33.38:700][762]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-17.33.38:700][762]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-17.33.38:700][762]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-17.33.38:700][762]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-17.33.38:700][762]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-17.33.38:700][762]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-17.33.38:700][762]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-17.33.38:700][762]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.20-17.33.38:700][762]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-17.33.38:709][762]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-17.33.38:709][762]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-17.33.38:792][762]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2022.04.20-17.33.38:792][762]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-17.33.38:793][762]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-17.33.38:793][762]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-17.33.38:793][762]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-17.33.38:807][762]LogInit: FAudioDevice initialized.
+[2022.04.20-17.33.38:854][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.33.38:854][762]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.20-17.33.38:856][762]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.20-19.33.38
+[2022.04.20-17.33.38:857][762]LogWorld: Bringing up level for play took: 0.002277
+[2022.04.20-17.33.38:857][762]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.04.20-17.33.38:861][762]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.20-17.33.38:874][762]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2022.04.20-17.33.38:884][762]PIE: Server logged in
+[2022.04.20-17.33.38:890][762]PIE: Play in editor total start time 0,268 seconds.
+[2022.04.20-17.33.41:623][862]LogRenderer: Reallocating scene render targets to support 2560x1416 Format 10 NumSamples 1 (Frame:101).
+[2022.04.20-17.33.49:863][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.33.49:863][418]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.20-17.33.49:864][418]LogSlate: Window 'Y_rec_FPS_Curves Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2022.04.20-17.33.49:870][418]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.20-17.33.49:871][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.33.49:880][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.20-17.33.49:885][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.20-17.33.49:940][418]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020B6B302200), frame # 320418
+[2022.04.20-17.33.49:940][418]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020ABC81A400), frame # 320418
+[2022.04.20-17.33.49:959][418]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.04.20-17.33.50:009][419]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.20-17.34.21:178][355]BlueprintLog: New page: Compile FirstPersonCharacter
+[2022.04.20-17.34.21:302][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.04.20-17.34.25:928][646]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.20-17.34.25:944][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.20-17.34.25:945][646]PIE: New page: PIE session: FirstPersonExampleMap (20 apr. 2022 21:34:25)
+[2022.04.20-17.34.25:945][646]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.04.20-17.34.25:956][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010990s)
+[2022.04.20-17.34.25:957][646]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.04.20-17.34.25:957][646]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020B4E2C2400), frame # 322646
+[2022.04.20-17.34.25:957][646]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020AD7BDF880), frame # 322646
+[2022.04.20-17.34.25:958][646]LogPlayLevel: PIE: World Init took: (0.001680s)
+[2022.04.20-17.34.25:958][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012886s)
+[2022.04.20-17.34.25:991][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.04.20-17.34.25:994][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.20-17.34.25:994][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.20-17.34.25:994][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.20-17.34.25:994][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.20-17.34.25:994][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.20-17.34.25:994][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.20-17.34.25:994][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.20-17.34.25:994][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.20-17.34.25:994][646]LogAudio: Display: Using built-in audio occlusion.
+[2022.04.20-17.34.25:994][646]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.20-17.34.26:001][646]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.20-17.34.26:001][646]LogAudioMixer: Display: 1: FrontRight
+[2022.04.20-17.34.26:068][646]LogAudioMixer: Display: Using Audio Device Luidsprekers (Realtek High Definition Audio)
+[2022.04.20-17.34.26:069][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.20-17.34.26:069][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.20-17.34.26:069][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.20-17.34.26:069][646]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.20-17.34.26:083][646]LogInit: FAudioDevice initialized.
+[2022.04.20-17.34.26:124][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.20-17.34.26:124][646]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.04.20-17.34.26:127][646]LogWorld: Bringing World /Game/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.04.20-19.34.26
+[2022.04.20-17.34.26:127][646]LogWorld: Bringing up level for play took: 0.002198
+[2022.04.20-17.34.26:127][646]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.04.20-17.34.26:129][646]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.04.20-17.34.26:130][646]LogSkinnedMeshComp: Warning: GetSocketByName(AimSocket): No SkeletalMesh for Component(FP_Gun) Actor(FirstPersonCharacter_C_1)
+[2022.04.20-17.34.26:130][646]LogSkinnedMeshComp: Warning: GetSocketByName(AimSocket): No SkeletalMesh for Component(FP_Gun) Actor(FirstPersonCharacter_C_1)
+[2022.04.20-17.34.26:134][646]PIE: Server logged in
+[2022.04.20-17.34.26:136][646]PIE: Play in editor total start time 0,196 seconds.
+[2022.04.20-17.34.30:841][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'AnimationCurves' of length 0 in '/Game/0000/FirstPersonCharacter.FirstPersonCharacter_C:PlayCurveAnimation'!
+[2022.04.20-17.34.30:841][879]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'AnimationCurves' of length 0 in '/Game/0000/FirstPersonCharacter.FirstPersonCharacter_C:PlayCurveAnimation'!
